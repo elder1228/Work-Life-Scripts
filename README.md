@@ -1,24 +1,23 @@
-# 🏎️ Concessionária Premium - Sistema de Gestão
+# 🚀 Work-Life Scripts: Central de Automação e Gestão
 
-Este repositório contém ferramentas em **Python** para administração de vendas e estoque em servidores de GTA RP.
+Bem-vindo ao meu repositório de automação! Aqui organizo scripts em **Python** desenvolvidos para otimizar meu fluxo de trabalho, projetos de arquitetura e rotina pessoal.
 
-## 📋 Funcionalidades:
-* **Cálculo de Impostos Automático** (Popular, Esportivo e Super).
-* **Cálculo de Comissão** (2% para o vendedor).
-* **Controle de Estoque** integrado.
+## 📂 Organização do Repositório
+
+### 📐 Arquitetura & Obras (Work)
+* **atalho_arquitetura.py**: Minha central de comando para abrir softwares (AutoCAD/Revit) e sites de referência.
+* **orcamento_mestre.py**: Ferramenta de cálculo técnico para levantamento de materiais (tijolos, pisos, argamassa) com margem de segurança.
+
+### 🎮 Gaming & RP (Life)
+* **vendas_gta.py**: Sistema de gestão para concessionária de RP, com cálculo de impostos e comissões automáticas.
+* **estoque.py**: Controle de entrada e saída de veículos.
+
+### 🛠️ Manutenção & Sistema
+* **nitro_cleaner.py**: Script de limpeza de arquivos temporários para manter a performance do meu **Acer Nitro V15**.
+* **sentinela_arquitetura.py**: Monitoramento de recursos para renderização e segurança de arquivos.
+
+### ❤️ Pessoal
+* **planejador_amor.py**: Organizador de datas especiais e banco de ideias para surpresas.
 
 ---
-## 📐 Ferramentas de Arquitetura
-Além do sistema de gestão, este repositório conta com o **Lançador de Workspace**:
-* **Arquivo**: `atalho_arquitetura.py`
-* **Como usar**: Execute o script e digite os números dos sites/apps que deseja abrir simultaneamente.
-* **Configuração**: Pronto para ser personalizado com os caminhos do Nitro V15.
-
----
-## 🛡️ Modo Sentinela (Automação de Segurança)
-Script criado para garantir a continuidade do trabalho durante renderizações longas ou ausências momentâneas:
-* **Prevenção de Sono**: Simula micro-movimentos do mouse para evitar que o Windows bloqueie a tela ou hiberne.
-* **Redundância de Dados**: Realiza backups automáticos de arquivos de projeto diretamente em um pendrive externo a cada 10 minutos.
-* **Arquivo**: `sentinela_arquitetura.py`
-
-
+*Desenvolvido para uso pessoal e profissional no Acer Nitro V15.*
