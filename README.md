@@ -1,2 +1,2 @@
-# concessionaria-rp-python
+# vendas.py
 Script de gestão para GTA RP 
